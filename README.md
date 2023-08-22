@@ -1,2 +1,2 @@
 # English-Verbs
-List of all English verbs 
+List of all English words (common) 
